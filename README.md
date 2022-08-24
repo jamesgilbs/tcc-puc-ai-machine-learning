@@ -1,1 +1,1 @@
-# tcc-puc-ai-machine-larning
+# tcc-puc-ai-machine-learning
